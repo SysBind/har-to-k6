@@ -31,6 +31,6 @@ bower_components/*
 /connect.lock
 /coverage/*
 /libpeerconnection.log
-
+/.idea
 testem.log
 loadtest.js
